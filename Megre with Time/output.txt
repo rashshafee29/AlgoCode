@@ -1,0 +1,36 @@
+Case  1:
+	Total Data: 10000
+	Total Execution time: 0.018000 sec.
+
+Case  2:
+	Total Data: 20000
+	Total Execution time: 0.037000 sec.
+
+Case  3:
+	Total Data: 30000
+	Total Execution time: 0.054000 sec.
+
+Case  4:
+	Total Data: 40000
+	Total Execution time: 0.073000 sec.
+
+Case  5:
+	Total Data: 50000
+	Total Execution time: 0.092000 sec.
+
+Case  6:
+	Total Data: 60000
+	Total Execution time: 0.110000 sec.
+
+Case  7:
+	Total Data: 70000
+	Total Execution time: 0.130000 sec.
+
+Case  8:
+	Total Data: 80000
+	Total Execution time: 0.148000 sec.
+
+Case  9:
+	Total Data: 90000
+	Total Execution time: 0.164000 sec.
+
